@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Tech-Store-Purchase-System/Tech-Store-Purchase-System.vcxproj" Id="fa23f0b3-1bc3-4dbb-94f4-0e1135145cb8" />
+</Solution>
